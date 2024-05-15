@@ -184,7 +184,7 @@ footer > p > a {
 
 footer a:hover {
     @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-    @font-face {
+    @font-face {008000
         font-family:'montserrat';
         src: url('../fontes/idroid.otf') format('opentype');
         font-family: 'Montserrat', sans-serif;
