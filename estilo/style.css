@@ -197,9 +197,10 @@ footer a:hover {
 ul {
     display: inline-block;
     vertical-align: top;
-    width: 30%;
+    width: 20%;
     margin-left: 10%;
     justify-content: center;
+}
 
    .principios {
     text-align: center;
