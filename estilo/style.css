@@ -199,4 +199,8 @@ ul {
     width: 30%;
     margin-left: 10%;
     justify-content: center;
+
+   .principios {
+    text-align: center;
+   }
 }
