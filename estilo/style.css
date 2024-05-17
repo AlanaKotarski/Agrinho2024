@@ -194,9 +194,11 @@ footer a:hover {
     font-size: 20px;
 }
 
-ul {
-    display: inline-block;
+.principios {
+    display: flex;
+    align-items: center;
     vertical-align: top;
+    margin-left: 10%;
     width: 20%;
     justify-content: center;
 }
